@@ -11,6 +11,8 @@ javascripts:
   jquery:
     uri: 'https://code.jquery.com/jquery-3.2.0.slim.min.js'
     sri: sha384-1IgS1w1Tef85fCJ4P3BUG2mk9zC/mUicyWWxzNPI1PIVe8Tnq0XHGbE6gWOTyBgt
+  main:
+    uri: /assets/js/main.js
 bootswatch:
   version: 3.3.7
   link: 'https://bootswatch.com/SWATCH_NAME/'
